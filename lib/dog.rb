@@ -1,7 +1,7 @@
-require "pry"
-class (dog) 
-  def 'bark'
+
+class dog 
+  def dog.bark
     puts "woof!"
 end  
+
 dog = "sit"
-binding.pry
