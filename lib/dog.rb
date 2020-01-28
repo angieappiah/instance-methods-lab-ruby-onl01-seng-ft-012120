@@ -11,4 +11,3 @@ def name (dog)
 end
 end
 
-dog = "sit"
